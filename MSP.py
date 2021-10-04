@@ -1,7 +1,7 @@
 import random
 
 SUBJECTS = ['Administrator', 'User1', 'User2', 'User3', 'User4']
-OBJECTS = ['Document', 'png document', 'MP4']
+OBJECTS = ['Document.docx', 'cat.png', 'Pursuit(JAWNS Version).mp3']
 LEVELS_OBJECTS = [1, 2, 3, 4]
 LEVELS_SUBJECTS = [1, 2, 3, 4]
 
